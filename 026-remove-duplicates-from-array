@@ -1,7 +1,8 @@
-class Solution:
+class Solution(Object):
   def removeDuplicates(self, A):
     if len(A) == 0: 
        return 0
+       
     count = 0
     for i in range(len(A)):
       if A[count] != A[i]:
