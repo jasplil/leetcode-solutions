@@ -1,6 +1,8 @@
 # leetcode-solutions
 ## Algorithms
-* Tree
+* [Tree](#Tree)
+
+### Tree
 
 | Num           | Title         |
 | ------------- | ------------- |
